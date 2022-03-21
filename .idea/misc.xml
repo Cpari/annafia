@@ -3,10 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Annafia/app/app/src/main/res/layout/activity_add_edit.xml" value="0.25885416666666666" />
         <entry key="..\:/Annafia/app/app/src/main/res/layout/activity_home.xml" value="0.36666666666666664" />
         <entry key="..\:/Annafia/app/app/src/main/res/layout/activity_list_home.xml" value="0.36666666666666664" />
         <entry key="..\:/Annafia/app/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Annafia/app/app/src/main/res/layout/activity_medicine_home.xml" value="0.25885416666666666" />
         <entry key="..\:/Annafia/app/app/src/main/res/layout/item_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Annafia/app/app/src/main/res/menu/add_edit_menu.xml" value="0.25885416666666666" />
+        <entry key="..\:/Annafia/app/app/src/main/res/menu/main_menu.xml" value="0.25885416666666666" />
       </map>
     </option>
   </component>

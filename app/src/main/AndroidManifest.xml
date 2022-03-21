@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Annafia">
         <activity
+            android:name=".src.medicine.AddEditActivity"
+            android:exported="false" />
+        <activity
+            android:name=".src.medicine.MedicineHomeActivity"
+            android:exported="false" />
+        <activity
             android:name=".src.ListHomeActivity"
             android:exported="false" />
         <activity
